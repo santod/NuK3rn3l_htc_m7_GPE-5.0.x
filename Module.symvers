@@ -808,6 +808,7 @@
 0x9390e66a	nf_ct_l3protos	vmlinux	EXPORT_SYMBOL_GPL
 0x2b7b80a4	linkwatch_fire_event	vmlinux	EXPORT_SYMBOL
 0x6d9f9658	snd_device_free	vmlinux	EXPORT_SYMBOL
+0xdb061bd0	sweep2wake_setdev	vmlinux	EXPORT_SYMBOL
 0xd37e13b4	regulator_set_optimum_mode	vmlinux	EXPORT_SYMBOL_GPL
 0x633908bc	hdmi_common_get_video_format_from_drv_data	vmlinux	EXPORT_SYMBOL
 0x8d522714	__rcu_read_lock	vmlinux	EXPORT_SYMBOL_GPL
